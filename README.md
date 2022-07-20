@@ -34,18 +34,6 @@ The data set contains the following diseases:
 
 
 
-ASSIGNMENT STEPS:
-
-> - Data Reading Data Understanding
-> - Dataset creation
-> - Dataset visualisation
-> - Model Building  training
-> - Data augmentation
-> - Class distribution
-> - Model Building  training  After Augmentor
-> - Coding Guidelines
-
-
 
 BOTTOMLINE/OBSERVATIONS:
 a.The fixing of class imbalance helped in reducing overfititng of the data and thus the reducing loss.
