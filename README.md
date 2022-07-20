@@ -32,3 +32,15 @@ The data set contains the following diseases:
  > 
  > Vascular lesion
 
+
+
+ASSIGNMENT STEPS:
+
+> - Data Reading Data Understanding
+> - Dataset creation
+> - Dataset visualisation
+> - Model Building  training
+> - Data augmentation
+> - Class distribution
+> - Model Building  training  After Augmentor
+> - Coding Guidelines
