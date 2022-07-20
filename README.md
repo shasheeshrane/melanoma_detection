@@ -44,3 +44,32 @@ ASSIGNMENT STEPS:
 > - Class distribution
 > - Model Building  training  After Augmentor
 > - Coding Guidelines
+
+
+
+BOTTOMLINE/OBSERVATIONS:
+a.The fixing of class imbalance helped in reducing overfititng of the data and thus the reducing loss.
+b. Accuracy is reduced to low < 12%
+c.Initially using the ImageDataGenerator , it created data to over fit at high ratio.
+d.Introduction of dropout and ImageDataGenerator has reduced the over fit
+e.In the End we tried, Batch Normalization and Augumentation which really helped in carry forward.
+
+
+
+# This was an enjoyable and challenging Assignement, Shasheesh Rane(Myself) have tried to include all we could and follow the Rubric as described by Upgrad. In terms of :
+
+> - Data Reading Data Understanding
+> - Dataset creation
+> - Dataset visualisation
+> - Model Building  training
+> - Data augmentation
+> - Class distribution
+> - Model Building  training  After Augmentor
+> - Coding Guidelines
+
+####  Our best sincere efforts were put in this assignment.
+
+
+#### Thanking you,
+
+# SHASHEESH RANE (Group Facilitator)
