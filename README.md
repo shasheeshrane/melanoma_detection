@@ -46,7 +46,7 @@ e.In the End we tried, Batch Normalization and Augumentation which really helped
 
 
 
-# This was an enjoyable and challenging Assignement, Shasheesh Rane(Myself) have tried to include all we could and follow the Rubric as described by Upgrad. In terms of :
+# This was an enjoyable and challenging Assignment, Shasheesh Rane(Myself) have tried to include all we could and follow the Rubric as described by Upgrad. In terms of :
 
 > - Data Reading Data Understanding
 > - Dataset creation
@@ -59,6 +59,7 @@ e.In the End we tried, Batch Normalization and Augumentation which really helped
 
 ####  Our best sincere efforts were put in this assignment.
 
+NOTE : I have uploaded the Final file before 11:00 pm , 20thJuly2022
 
 #### Thanking you,
 
