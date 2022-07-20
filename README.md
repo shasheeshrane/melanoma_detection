@@ -38,6 +38,10 @@ Its takes over 35 min to train 50 Epoch Thats too much of screen time, even with
 
 
 BOTTOMLINE/OBSERVATIONS:
+Initially when we tried training the data
+Based on Train data We see the values of Train Accuracy on an Optimal fit 60-65%, and not tending above 80% , Slight overfit is possible.
+
+Later after applying the Class imbalance and Augmentor Libraries
 a.The fixing of class imbalance helped in reducing overfititng of the data and thus the reducing loss.
 b. Accuracy is reduced to low < 12%
 c.Initially using the ImageDataGenerator , it created data to over fit at high ratio.
