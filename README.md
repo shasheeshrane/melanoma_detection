@@ -23,8 +23,12 @@ The data set contains the following diseases:
  > Melanoma
  > 
  > Nevus
+ > 
  > Pigmented benign keratosis
+ > 
  > Seborrheic keratosis
+ > 
  > Squamous cell carcinoma
+ > 
  > Vascular lesion
 
