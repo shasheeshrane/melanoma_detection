@@ -32,7 +32,9 @@ The data set contains the following diseases:
  > 
  > Vascular lesion
 
-
+Challenges:
+Its takes over 16 minutes to train even 20 Epochs
+Its takes over 35 min to train 50 Epoch Thats too much of screen time, even with Google Colab
 
 
 BOTTOMLINE/OBSERVATIONS:
